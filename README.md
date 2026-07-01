@@ -6,9 +6,6 @@ A responsive Flipkart Clone Website built using HTML, CSS, and JavaScript. This 
 
 «Add your live website link here after deployment.»
 
-📸 Preview
-
-«Add screenshots of your project here.»
 
 ✨ Features
 
